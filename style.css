@@ -108,13 +108,6 @@ button:active {
  
 }
 
-.facebook-button:hover {
-    color: #4267B2;
-}
-
-.linkedin-button:hover {
-    color: #0077B5
-}
 
 .sms-button:hover {
     color: #39ff5a;

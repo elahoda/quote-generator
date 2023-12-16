@@ -74,6 +74,7 @@ function shareViaSMS() {
 // Event Listeners
 newQuoteBtn.addEventListener("click", getQuote);
 twitterBtn.addEventListener("click", tweetQuote);
+
 smsBtn.addEventListener("click", shareViaSMS);
 
 // On Load
