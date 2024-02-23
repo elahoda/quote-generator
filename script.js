@@ -24,7 +24,7 @@ function removeLoadingSpinner() {
 // Get Quote From API
 async function getQuote() {
   showLoadingSpinner();
-  const proxyUrl = "https://sheltered-castle-56551-bd0942956b4f.herokuapp.com/";
+  const proxyUrl = "https://enigmatic-tor-89593-b00267945cf2.herokuapp.com/";
   const apiUrl =
     "http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json";
   try {
